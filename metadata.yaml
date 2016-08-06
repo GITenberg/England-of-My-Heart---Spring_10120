@@ -1,0 +1,31 @@
+_repo: England-of-My-Heart---Spring_10120
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 10120/10120-h/frontis.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Hutton, Edward
+    birthdate: 1875
+    deathdate: 1969
+    gutenberg_agent_id: '3315'
+    url: http://www.gutenberg.org/2009/agents/3315
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Hutton_%28writer%29
+description: Cover -- Contents.
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10120'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Description and travel'
+- !lcc 'DA'
+- !lcsh 'Cathedrals -- England'
+- GITenberg
+title: 'England of My Heart : Spring'
+url: http://www.gutenberg.org/ebooks/10120
