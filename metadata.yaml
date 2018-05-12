@@ -1,10 +1,8 @@
 _repo: England-of-My-Heart---Spring_10120
-_version: 0.0.1
+_version: 0.1.0
 covers:
-- cover_type: archival
-  image_path: 10120/10120-h/frontis.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hutton, Edward
@@ -14,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3315
     wikipedia: http://en.wikipedia.org/wiki/Edward_Hutton_%28writer%29
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10120#England-of-My-Heart---Spring
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
